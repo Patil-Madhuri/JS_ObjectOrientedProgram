@@ -1,0 +1,44 @@
+{
+  "rice": [
+    {
+      "name": "rice1",
+      "weight": "2",
+      "price": "22",
+      "amount": 44
+    },
+    {
+      "name": "rice2",
+      "weight": "5",
+      "price": "55",
+      "amount": 275
+    },
+    {
+      "name": "dfdg",
+      "weight": "43",
+      "price": "343",
+      "amount": 14749
+    }
+  ],
+  "pulse": [
+    {
+      "name": "pulse1",
+      "weight": "2",
+      "price": "22",
+      "amount": 44
+    },
+    {
+      "name": "eedd",
+      "weight": "23",
+      "price": "3221",
+      "amount": 74083
+    }
+  ],
+  "wheat": [
+    {
+      "name": "wheat3",
+      "weight": "3",
+      "price": "33",
+      "amount": 99
+    }
+  ]
+}
