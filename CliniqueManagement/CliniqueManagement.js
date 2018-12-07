@@ -2,7 +2,7 @@
  *  
  *  Purpose: Clinique Management Program.
  *
- *  @author  Swati Desale
+ *  @author Madhuri Patil
  *  @version 1.0
  *  @since   01-08-2018
  *

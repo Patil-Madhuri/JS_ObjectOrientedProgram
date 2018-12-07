@@ -2,7 +2,7 @@
  *  
  *  Purpose: Stock Report Implementataion.
  *
- *  @author  Swati Desale
+ *  @author  Madhuri Patil
  *  @version 1.0
  *  @since   03-08-2018
  *
